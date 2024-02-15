@@ -1,16 +1,14 @@
 ///////////////////ADMIN Login Credentials///////////////////////////
 
 URL: http://localhost:8079/Employee-Attendance-Management-System/employee-attendance-management/admin/index.php
-Emailid: admin
-Password: AdminEAM@123#$
+Emailid: vista
+Password: 123hello
 
 ////////////////////////END/////////////////////////////////////////
 
 ///////////////////Employee Login Credentials///////////////////////////
 
-URL: http://localhost:8079/Employee-Attendance-Management-System/employee-attendance-management/index.php
-Emailid: jane
-Password: 123
+create employee first
 
 
 ////////////////////////END/////////////////////////////////////////
